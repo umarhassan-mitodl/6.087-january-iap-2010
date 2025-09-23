@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "f40c1db7-cbfd-7a41-ee5d-56d6f35e7a1f",
+  "instructors": {
+    "content": [
+      "3604ffb7-5059-609d-5a7f-83d062e229c6",
+      "7fcf9d11-d365-d8fe-da05-eab46a4a194e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ea7cfb3f-6b1d-c004-d37c-0b06ac102e62",
+    "website": "6-087-practical-programming-in-c-january-iap-2010"
+  },
+  "course_title": "Practical Programming in C",
+  "course_description": "This course provides a thorough introduction to the C programming language, the workhorse of the UNIX operating system and lingua franca of embedded processors and micro-controllers. The first two weeks will cover basic syntax and grammar, and expose students to practical programming techniques. The remaining lectures will focus on more advanced concepts, such as dynamic memory allocation, concurrency and synchronization, UNIX signals and process control, library development and usage. Daily programming assignments and weekly laboratory exercises are required. Knowledge of C is highly marketable for summer internships, UROPs, and full-time positions in software and embedded systems development.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.087",
+  "course_image_thumbnail": {
+    "content": "90b72034-b3c4-729c-9132-a1c78d5479e0",
+    "website": "6-087-practical-programming-in-c-january-iap-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "b6871c09-38d6-4c71-b51e-51fe30ac2375",
+  "site_short_id": "6.087-january-iap-2010",
+  "site_url_path": "courses/6-087-practical-programming-in-c-january-iap-2010",
+  "title": "Course Metadata"
+}
