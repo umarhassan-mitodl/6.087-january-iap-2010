@@ -6,6 +6,8 @@ description: "Lecture presentation on dynamic memory allocation, designing the m
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/626730575787751a6468f681d95ecb9f_MIT6_087IAP10_lec11.pdf
 file_size: 239841
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

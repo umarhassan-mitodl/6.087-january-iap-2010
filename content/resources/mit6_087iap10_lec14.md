@@ -5,6 +5,8 @@ description: Lecture presentation o Linux inter process communication, signals, 
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/d819f17f7632a8622af911360f42796f_MIT6_087IAP10_lec14.pdf
 file_size: 156301
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

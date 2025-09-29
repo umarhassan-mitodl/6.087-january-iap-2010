@@ -5,6 +5,8 @@ description: 'Lecture presentation on the C standard library: stdio.h, ctype.h, 
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/2d7ce9e81c1ce03c8c93a12c9d21d0dd_MIT6_087IAP10_lec10.pdf
 file_size: 184883
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture presentation on pointers, void pointers, function pointers,
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/02aef29b821a0258e53ba95a648207f9_MIT6_087IAP10_lec08.pdf
 file_size: 263587
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

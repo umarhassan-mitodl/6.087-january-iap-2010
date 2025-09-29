@@ -7,6 +7,8 @@ description: Lecture presentation on void pointers, function pointers, hash tabl
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/4b9152a12a01274abfaf5a3c2686564b_MIT6_087IAP10_lec09.pdf
 file_size: 543255
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

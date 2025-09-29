@@ -29,6 +29,7 @@
     "website": "6-087-practical-programming-in-c-january-iap-2010"
   },
   "course_title": "Practical Programming in C",
+  "hide_download": true,
   "course_description": "This course provides a thorough introduction to the C programming language, the workhorse of the UNIX operating system and lingua franca of embedded processors and micro-controllers. The first two weeks will cover basic syntax and grammar, and expose students to practical programming techniques. The remaining lectures will focus on more advanced concepts, such as dynamic memory allocation, concurrency and synchronization, UNIX signals and process control, library development and usage. Daily programming assignments and weekly laboratory exercises are required. Knowledge of C is highly marketable for summer internships, UROPs, and full-time positions in software and embedded systems development.\n",
   "department_numbers": [
     "6"
@@ -39,6 +40,7 @@
     "content": "90b72034-b3c4-729c-9132-a1c78d5479e0",
     "website": "6-087-practical-programming-in-c-january-iap-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects",

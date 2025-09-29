@@ -6,6 +6,8 @@ description: "Lecture presentation on the basics of programming in C, variables,
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/ab99b303a22349b7830a31eca6310fee_MIT6_087IAP10_lec02.pdf
 file_size: 218369
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: Lecture presentation on programming in C, pointers, pointers to poi
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/afdb632076595f216692b04cafae216c_MIT6_087IAP10_lec07.pdf
 file_size: 243690
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

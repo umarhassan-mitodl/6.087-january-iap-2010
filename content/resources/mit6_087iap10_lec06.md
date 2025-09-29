@@ -5,6 +5,8 @@ description: "Lecture presentation on user de\uFB01ned datatypes, structures, un
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/1aa34decd30f336826cd087d2f52035b_MIT6_087IAP10_lec06.pdf
 file_size: 251631
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

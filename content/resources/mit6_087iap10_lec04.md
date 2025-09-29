@@ -5,6 +5,8 @@ description: Lecture presentation on programming in C, control flow, and standar
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/262cf4e05f039e45c926109c8aa95024_MIT6_087IAP10_lec04.pdf
 file_size: 195449
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
